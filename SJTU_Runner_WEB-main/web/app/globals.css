@@ -30,7 +30,7 @@
 }
   
   .btn-danger {
-    @apply bg-error-600 hover:bg-error-700 text-white font-medium px-4 py-2 rounded-lg transition-colors duration-200;
+    @apply bg-red-600 hover:bg-red-700 text-white font-medium px-4 py-2 rounded-lg transition-colors duration-200;
   }
   
   .input-field {
